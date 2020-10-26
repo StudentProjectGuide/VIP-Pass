@@ -4,4 +4,4 @@ VIP Ticket Booking module
 VIP profile entry module
 VIP pass cancellation module
 
-Visit www.studentprojectguide.com
+Visit https://www.studentprojects.live/studentprojectreport/projectreport/vip-pass-online/
